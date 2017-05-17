@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="scan">Scan</string>
+
+    <string name="rssi">RSSI</string>
+    <string name="addr">Address</string>
+    <string name="unknow_name">Unname</string>
+    <string name="unknow_address">Unknow address</string>
+    <string name="RX">RX</string>
+    <string name="TX">TX</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLE</string>
+    <string name="scan">搜索</string>
+
+    <string name="rssi">信号</string>
+    <string name="addr">地址</string>
+    <string name="unknow_name">未命名</string>
+    <string name="unknow_address">未知地址</string>
+    <string name="RX">接收的数据</string>
+    <string name="TX">发送的数据</string>
+    <string name="send">发送</string>
+    <string name="clear">清除</string>
+</resources>
